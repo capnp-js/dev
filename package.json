@@ -1,0 +1,21 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "up": "sinopia",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clone": "./bin/clone.sh",
+    "status": "./bin/status.sh",
+    "init": "./bin/install.sh",
+    "refresh": "./bin/refresh.sh",
+    "test-flow": "./bin/test-flow.sh",
+    "test-unit": "./bin/test-unit.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sinopia": "^1.4.0"
+  }
+}
