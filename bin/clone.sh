@@ -21,6 +21,7 @@ git clone https://github.com/capnp-js/tiny-uint.git sub/tiny-uint
 git clone https://github.com/capnp-js/trans-align-bytes.git sub/trans-align-bytes
 git clone https://github.com/capnp-js/trans-align-strings.git sub/trans-align-strings
 git clone https://github.com/capnp-js/trans-base64.git sub/trans-base64
+git clone https://github.com/capnp-js/trans-concat.git sub/trans-concat
 git clone https://github.com/capnp-js/transform.git sub/transform
 git clone https://github.com/capnp-js/trans-inject.git sub/trans-inject
 git clone https://github.com/capnp-js/trans-packing.git sub/trans-packing
